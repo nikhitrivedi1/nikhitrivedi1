@@ -1,16 +1,72 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20I'm%20Nikhil!)
 
-<!--
-**nikhitrivedi1/nikhitrivedi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🚀 **CS Grad Student @ Northeastern University**
+- 🔧 Mechanical Engineering foundation + ML specialization
+- ⚡️ Passionate about **wearables, generative models, and deploying models at scale**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What Drives Me
+I believe AI is most powerful when it **integrates seamlessly into human workflows** — making our lives smarter, healthier, and more efficient.  Whether it’s optimizing geometry with CLIP, crafting AI-powered wellness advisors, or experimenting with agents, I am fascinated by bridging **research-level innovation** with **deployable engineering**.
+
+---
+
+## 🔍 Featured Projects
+
+### 🧠 Pulsy — Agentic RAG for Wearables
+An **AI wellness advisor** turning wearable device data into actionable, personalized insights.  
+- Built with **LangGraph + Pinecone VectorDB** for semantic retrieval  
+- Integrates **Oura Ring API** (Apple Watch support in progress)  
+- Bridges quantified metrics with popularized health research (Huberman Lab, etc.)  
+- Goal-oriented tracking & habit reinforcement
+- Currently runs locally for developers; planned **future user-facing release**
+
+
+**Tech**: FastAPI, Node.js, LangChain, LangGraph, Pinecone, Agentic RAG
+
+---
+
+### 🌀 Differentiable Vector Field Optimization
+Text-to-geometry synthesis using **CLIP-guided PyTorch optimization** (coming soon)  
+- Designed custom loss functions for smoothness, alignment, and tiling constraints  
+- Experimented with **ControlNet + Stable Diffusion** for constraint-aware generation  
+- Explored augmentations to combat vanishing gradients in differentiable rendering
+
+**Tech**: PyTorch, CLIP, NVDiffrast, Stable Diffusion, ControlNet
+
+---
+
+### 🛰 Deep Q-Network for Lunar Lander
+- Extended Andrew Ng’s RL lab with follow up experiments  
+- Investigated **epsilon decay schedules** & **batch normalization** effects  
+- Achieved faster landing success
+
+**Tech**: TensorFlow, OpenAI Gym, Deep RL
+
+---
+
+### 📊 ML for Manufacturing Failures @ Cisco
+- Built a **root-cause classification pipeline** for system test failures based on internal system sensor data
+- Conducted PCA-based dimensionality reduction for model interpretability
+- Experimented with **Logistic Regression, Random Forest, XGBoost**  
+- Delivered a high caliber model and received funding to build out
+
+**Tech**: Python, Scikit-learn, MongoDB
+
+---
+
+## 🧠 Technical Toolkit
+- **Languages**: Python, C, Java, JavaScript  
+- **ML/AI**: PyTorch, TensorFlow, Scikit-learn  
+- **Agentic/RAG**: LangGraph, LangChain  
+- **Web**: Node.js, Express.js, FastAPI  
+- **Databases**: MongoDB, Pinecone  
+
+---
+
+## 📬 Let’s Connect
+- **LinkedIn**: [linkedin.com/in/nikhiltrivedi](https://www.linkedin.com/in/nikhil-trivedi-5897b1125/)  
+- **Email**: trivedi.nik@northeastern.edu 
+
+---
+_If you’re building something ambitious in AI — I want in._
