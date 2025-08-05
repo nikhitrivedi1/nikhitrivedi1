@@ -2,7 +2,7 @@
 
 - 🚀 **CS Grad Student @ Northeastern University**
 - 🔧 Mechanical Engineering foundation + ML specialization
-- ⚡️ Passionate about **wearables, generative models, and deploying models at scale**
+- ⚡️ Passionate about **Generative AI, Multimodal Learning, and Deploying models at scale**
 
 ---
 
