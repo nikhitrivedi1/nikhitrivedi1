@@ -2,12 +2,12 @@
 
 - 🚀 **CS Grad Student @ Northeastern University**
 - 🔧 Mechanical Engineering foundation + ML specialization
-- ⚡️ Passionate about **Generative AI, Multimodal Learning, and Deploying models at scale**
+- ⚡️ Passionate about **Generative AI, Multimodal Learning, and Deploying Models at Scale**
 
 ---
 
 ## 🚀 What Drives Me
-I believe AI is most powerful when it **integrates seamlessly into human workflows** — making our lives smarter, healthier, and more efficient.  Whether it’s optimizing geometry with CLIP, crafting AI-powered wellness advisors, or experimenting with agents, I am fascinated by bridging **research-level innovation** with **deployable engineering**.
+I believe AI is most powerful when it **integrates seamlessly into human workflows** — making our lives smarter, healthier, and more creative.  Whether it’s optimizing geometry with CLIP, crafting AI-powered wellness advisors, or experimenting with different learning models, I am fascinated by bridging **research-level innovation** with **deployable engineering**.
 
 ---
 
@@ -38,8 +38,8 @@ Text-to-geometry synthesis using **CLIP-guided PyTorch optimization** (coming so
 
 ### 🛰 Deep Q-Network for Lunar Lander
 - Extended Andrew Ng’s RL lab with follow up experiments  
-- Investigated **epsilon decay schedules** & **batch normalization** effects  
-- Achieved faster landing success
+- Investigated **epsilon decay schedules** & **batch normalization** effects on training stablity and solving time
+- Achieved a faster solving time than the benchamrks set in the lab
 
 **Tech**: TensorFlow, OpenAI Gym, Deep RL
 
