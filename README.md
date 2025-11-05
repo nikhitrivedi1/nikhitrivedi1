@@ -18,7 +18,6 @@ An **AI wellness advisor** turning wearable device data into actionable, persona
 - Built with **LangGraph + Pinecone VectorDB** for semantic retrieval  
 - Integrates **Oura Ring API** (Apple Watch support in progress)  
 - Bridges quantified metrics with popularized health research (Huberman Lab, etc.)  
-- Goal-oriented tracking & habit reinforcement
 - Currently runs locally for developers; planned **future user-facing release**
 
 
