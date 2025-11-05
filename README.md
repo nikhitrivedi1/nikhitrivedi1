@@ -2,7 +2,7 @@
 
 - 🚀 **CS Grad Student @ Northeastern University**
 - 🔧 Mechanical Engineering foundation + ML specialization
-- ⚡️ Exploring **Generative AI, Multimodal Learning, and Deploying Models at Scale**
+- ⚡️ Exploring **Generative AI, Multimodal Learning**
 
 ---
 
