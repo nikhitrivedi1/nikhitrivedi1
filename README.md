@@ -16,12 +16,10 @@ I believe AI is most powerful when it **integrates seamlessly into human workflo
 ### 🧠 Pulsy — Agentic RAG for Wearables
 An **AI wellness advisor** turning wearable device data into actionable, personalized insights.  
 - Built with **LangGraph + Pinecone VectorDB** for semantic retrieval  
-- Integrates **Oura Ring API** (Apple Watch support in progress)  
+- Integrates **Oura Ring API**  
 - Bridges quantified metrics with popularized health research (Huberman Lab, etc.)  
-- Currently runs locally for developers; planned **future user-facing release**
 
-
-**Tech**: FastAPI, Node.js, LangChain, LangGraph, Pinecone, Agentic RAG
+**Tech**: FastAPI, Node.js, LangChain, LangGraph, Pinecone, Agentic RAG, GCP
 
 ---
 
