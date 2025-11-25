@@ -66,4 +66,3 @@ Text-to-geometry synthesis using **CLIP-guided PyTorch optimization** (coming so
 - **Email**: trivedi.nik@northeastern.edu 
 
 ---
-_If you’re building something ambitious in AI — I want in._
