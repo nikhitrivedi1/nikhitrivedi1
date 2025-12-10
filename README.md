@@ -2,7 +2,7 @@
 
 - 🚀 **CS Grad Student @ Northeastern University**
 - 🔧 Mechanical Engineering foundation + ML specialization
-- ⚡️ Exploring **Generative AI, Multimodal Learning**
+- ⚡️ Exploring **Generative AI, AI x Wearbles**
 
 ---
 
