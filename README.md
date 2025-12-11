@@ -24,6 +24,15 @@ LIVE @ [Pulsy Link](https://pulsy-768224718837.us-west1.run.app/)
 
 ---
 
+### 🧠 Transformer-based Classifier for Human Activity Recognition
+An ongoing modelling effort to beat benchmarks specified on Capture24 paper
+-  Utilize PachTST architecture for time series data
+-  Design custom classification head to replace forecasting head
+
+**Tech**: PyTorch, Transformers
+
+---
+
 ### 🌀 Differentiable Vector Field Optimization
 Text-to-geometry synthesis using **CLIP-guided PyTorch optimization** (coming soon)  
 - Designed custom loss functions for smoothness, alignment, and tiling constraints  
