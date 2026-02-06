@@ -13,8 +13,8 @@ I believe AI is most powerful when it **integrates seamlessly into human workflo
 
 ## 🔍 Featured Projects
 
-### 🧠 Pulsy — Agentic RAG for Wearables
-An **AI wellness advisor** turning wearable device data into actionable, personalized insights.
+### 🧠 Pulsy — Agentic RAG for your Oura Ring Data
+An **AI wellness advisor** turning ring data into actionable, personalized insights.
 LIVE @ [Pulsy Link](https://pulsy-768224718837.us-west1.run.app/)
 - Built with **LangGraph + Pinecone VectorDB** for semantic retrieval  
 - Integrates **Oura Ring API**  
