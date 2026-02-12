@@ -2,7 +2,7 @@
 
 - 🚀 **CS Grad Student @ Northeastern University**
 - 🔧 Mechanical Engineering foundation + ML specialization
-- ⚡️ Exploring **Agents, AI x Wearables**
+- ⚡️ Exploring **Agents, LLMs, AI x Wearables**
 
 ---
 
