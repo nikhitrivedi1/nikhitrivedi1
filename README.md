@@ -33,32 +33,12 @@ An ongoing modelling effort to beat benchmarks specified on Capture24 paper
 
 ---
 
-### 🌀 Differentiable Vector Field Optimization
-Text-to-geometry synthesis using **CLIP-guided PyTorch optimization** (coming soon)  
-- Designed custom loss functions for smoothness, alignment, and tiling constraints  
-- Experimented with **ControlNet + Stable Diffusion** for constraint-aware generation  
-- Explored augmentations to combat vanishing gradients in differentiable rendering
-
-**Tech**: PyTorch, CLIP, NVDiffrast, Stable Diffusion, ControlNet
-
----
-
 ### 🛰 Deep Q-Network for Lunar Lander
 - Extended Andrew Ng’s RL lab with follow up experiments  
 - Investigated **epsilon decay schedules** & **batch normalization** effects on training stablity and solving time
 - Achieved a faster solving time than the benchamrks set in the lab
 
 **Tech**: TensorFlow, OpenAI Gym, Deep RL
-
----
-
-### 📊 ML for Manufacturing Failures @ Cisco
-- Built a **root-cause classification pipeline** for system test failures based on internal system sensor data
-- Conducted PCA-based dimensionality reduction for model interpretability
-- Experimented with **Logistic Regression, Random Forest, XGBoost**  
-- Delivered a high caliber model and received funding to build out
-
-**Tech**: Python, Scikit-learn, MongoDB
 
 ---
 
