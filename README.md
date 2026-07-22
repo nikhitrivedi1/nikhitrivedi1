@@ -6,11 +6,6 @@
 
 ---
 
-## 🚀 What Drives Me
-I believe AI is most powerful when it **integrates seamlessly into human workflows** — making our lives smarter, healthier, and more creative.  Whether it’s optimizing geometry with CLIP, crafting AI-powered wellness advisors, or experimenting with different learning models, I am fascinated by bridging **research-level innovation** with **deployable engineering**.
-
----
-
 ## 🔍 Featured Projects
 
 ### 🧠 Pulsy — Agentic RAG for your Oura Ring Data
