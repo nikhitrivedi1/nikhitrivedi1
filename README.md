@@ -1,4 +1,4 @@
-![Hi, I'm Nikhil](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20I%27m%20Nikhil%21&fontSize=52&fontAlignY=38&desc=Post-training%20%C2%B7%20Distillation%20%C2%B7%20Evaluation&descAlignY=58&descSize=16)
+![Hi, I'm Nikhil](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20I%27m%20Nikhil%21&fontSize=52&fontAlignY=38&)
 
 - 🎓 **MS Computer Science @ Northeastern University**
 - 🔬 **Applied AI Intern @ Nanonets**, working on vision-language models
