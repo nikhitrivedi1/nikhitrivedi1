@@ -15,7 +15,7 @@ Five years as a mechanical engineer at Cisco before this, doing thermal and inte
 
 **Co-Training and Co-Distillation:** exploring the benefits of mutual learning and distillation in post-training. First results published at SPIE 2026; now extending the work to language generation. Advised by Karl Ni.
 
-**Going deeper on:** distributed training, RL post-training and reward design, gated linear attention, inference optimization, and the statistics of running honest experiments. Always happy to talk about any of these.
+**Going deeper on:** RL post-training and reward design, gated linear attention, inference optimization, and the statistics of running honest experiments. Always happy to talk about any of these.
 
 ---
 
