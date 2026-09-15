@@ -5,7 +5,7 @@
 - 🔧 Mechanical engineering @ Santa Clara University
 - ⚡ **Post-training:** distillation, compression, and the evals that tell you whether either one worked
 
-Five years as a mechanical engineer at Cisco before this, doing thermal and interconnect design and experimentation for optical systems. I worked on their first co-packaged optics system, demoed at OFC 2023, led reliability studies on thermal interface materials, and optimized manufacturing lines for throughput and cost. I taught myself ML there to go after hardware failure analysis. Between what that project showed me and what GPT-3 showed everyone, the case for diving into the field made itself.
+Five years as a mechanical engineer at Cisco before this, doing thermal and interconnect design and experimentation for optical systems. I worked on their first [Co-Packaged Optics System](https://blogs.cisco.com/sp/cisco-demonstrates-co-packaged-optics-cpo-system-at-ofc-2023), demoed at OFC 2023, led reliability studies on thermal interface materials, and optimized manufacturing lines for throughput and cost. I taught myself ML there to go after hardware failure analysis. Between what that project showed me and what GPT-3 showed everyone, the case for diving into the field made itself.
 
 ---
 
