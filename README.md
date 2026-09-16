@@ -11,7 +11,7 @@ Five years as a mechanical engineer at Cisco before this, doing thermal and inte
 
 ### Currently
 
-**Nanonets:** compression, evaluation, and post-training for OCR vision-language models.
+**Nanonets:** evals, data and post-training for OCR vision-language models.
 
 **Co-Training and Co-Distillation:** exploring the benefits of mutual learning and distillation in post-training. First results published at SPIE 2026; now extending the work to language generation. Advised by Karl Ni.
 
